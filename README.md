@@ -14,6 +14,8 @@
 </div>
 
 <br><br>
+### 👩‍💻 끊임없이 고민하며 성장하는 개발자, 김규리입니다.
+<br>
 </div>
 
 ## 🖥️ Tech Skills
@@ -49,9 +51,10 @@
 | SWAcademy Codingtext (코딩 테스트 블로그) | 2024-09-10 ~ 2024-12-20 |
 | SWAcademy 기업실무 Trillion-TikiTaka (티켓 관리 시스템) | 2025-01-20 ~ 2025-02-19 |
 
-
+<div align="center">
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flamiiiii&count_bg=%23A4C6DE&title_bg=%2324130F&icon=javascript.svg&icon_color=%23A4C6DE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
+</div>
 

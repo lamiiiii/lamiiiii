@@ -47,9 +47,9 @@
 
 | Project Name        | Duration       |
 |---------------------|----------------|
-| 졸업 프로젝트 SkinBuddy (AI 피부 관리 어플) | 2024-04-08 ~ 2024-05-17 |
-| SWAcademy Codingtext (코딩 테스트 블로그) | 2024-09-10 ~ 2024-12-20 |
-| SWAcademy 기업실무 Trillion-TikiTaka (티켓 관리 시스템) | 2025-01-20 ~ 2025-02-19 |
+| [졸업 프로젝트 SkinBuddy (AI 피부 관리 어플)](https://github.com/Computer-skunks/Skin-Buddy-Frontend-Web) | 2024-04-08 ~ 2024-05-17 |
+| [SWAcademy Codingtext (코딩 테스트 블로그)](https://github.com/Xeat-KEA/CodingText-FrontEnd) | 2024-09-10 ~ 2024-12-20 |
+| [SWAcademy 기업실무 Trillion-TikiTaka (티켓 관리 시스템)](https://github.com/lamiiiii/TRILLION-TikiTaka-FE) | 2025-01-20 ~ 2025-02-19 |
 
 <div align="center">
 <br>

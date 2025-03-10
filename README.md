@@ -10,7 +10,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=lamiiiii&show_icons=true&theme=material-palenight&hide_border=true&bg_color=A4C6DE&icon_color=E3E3E3A8&text_color=fff&title_color=24130F&count_private=true" width="48%" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamiiiii&layout=compact" width="36%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamiiiii&layout=compact&langs_count=10&bg_color=A4C6DE&title_color=ffffff&text_color=ffffff&hide_border=False" width="36%" />
 </div>
 
 <br><br>
@@ -37,12 +37,14 @@
 
 <br>
 
-> - **깔끔하고 유지보수 가능한 코드**: 깔끔하고 읽기 쉬운, 유지보수가 용이한 코드를 작성합니다.
-> - **반응형 디자인**: 다양한 기기와 화면 크기에서 원활히 작동하는 웹 애플리케이션을 구축합니다.
-> - **협업 및 버전 관리**: Git과 GitHub을 사용하여 팀과의 협업과 버전 관리를 효율적으로 진행합니다.
-> - **성능 최적화**: 웹 애플리케이션의 속도와 성능 최적화에 집중합니다.
-> - **사용자 중심 디자인**: 직관적이고 사용하기 쉬운 인터페이스를 중시하며 디자인에 신경을 씁니다.
-> - **지속적인 학습**: 최신 기술과 프레임워크를 지속적으로 배우고 적용하는 것에 중점을 둡니다.
+```markdown
+
+> 깔끔하고 유지보수 가능한 코드: 깔끔하고 읽기 쉬운, 유지보수가 용이한 코드를 작성합니다.
+> 협업 및 버전 관리: Git과 GitHub을 사용하여 팀과의 협업과 버전 관리를 효율적으로 진행합니다.
+> 사용자 중심 디자인: 직관적이고 사용하기 쉬운 인터페이스를 중시하며 디자인에 신경을 씁니다.
+> 지속적인 학습: 최신 기술과 프레임워크를 지속적으로 배우고 적용하는 것에 중점을 둡니다.
+
+```
 
 <br><br>
 

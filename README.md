@@ -5,15 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=A4C6DE&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Welcome%2C+I'm+Gyuri.+%E3%80%80%E3%80%80)](https://git.io/typing-svg)
 
 <br><br>
-
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lamiiiii&show_icons=true&theme=material-palenight&hide_border=true&bg_color=A4C6DE&icon_color=E3E3E3A8&text_color=fff&title_color=24130F&count_private=true" width="48%" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamiiiii&layout=compact&langs_count=10&bg_color=A4C6DE&title_color=ffffff&text_color=ffffff&hide_border=False" width="36%" />
-</div>
-
-<br><br>
 ## 👩‍💻 끊임없이 고민하며 성장하는 개발자, 김규리입니다.
 <br>
 </div>
@@ -45,6 +36,11 @@
 > 지속적인 학습: 최신 기술과 프레임워크를 지속적으로 배우고 적용하는 것에 중점을 둡니다.
 
 ```
+<br><br>
+
+<div style="display: flex; justify-content: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamiiiii&layout=compact&langs_count=10&bg_color=A4C6DE&title_color=ffffff&text_color=ffffff&hide_border=False" />
+</div>
 
 <br><br>
 
@@ -57,9 +53,8 @@
 | [SWAcademy 기업실무 Trillion-TikiTaka (티켓 관리 시스템)](https://github.com/lamiiiii/TRILLION-TikiTaka-FE) | 2025-01-20 ~ 2025-02-19 |
 
 <div align="center">
+
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flamiiiii&count_bg=%23A4C6DE&title_bg=%2324130F&icon=javascript.svg&icon_color=%23A4C6DE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
 </div>
 

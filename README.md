@@ -32,13 +32,21 @@ values   : Clean Code / Good UX / Continuous Growth
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,nextjs,html,css)](https://skillicons.dev)
 
+**Styling & Animation**
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,styledcomponents,framermotion)](https://skillicons.dev)
+
+**State Management & Data Fetching**
+
+[![My Skills](https://skillicons.dev/icons?i=zustand,reactquery,axios)](https://skillicons.dev)
+
 **App & Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=reactnative,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
-**Tools**
+**Tools & Collaboration**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,notion,jira,slack,docker,cpp)](https://skillicons.dev)
 
 </div>
 
@@ -86,11 +94,11 @@ values   : Clean Code / Good UX / Continuous Growth
 
 ## 🗂 Projects
 
-| 프로젝트 | 기간 | 설명 |
+| 프로젝트 | 기간 | 주요 기술 |
 |---|---|---|
-| [**SkinBuddy** — AI 피부 관리 앱](https://github.com/Computer-skunks/Skin-Buddy-Frontend-Web) | 2024.04 – 05 | 졸업 프로젝트 / AI 기반 피부 타입 분석 웹 |
-| [**CodingText** — 코딩 테스트 블로그](https://github.com/Xeat-KEA/CodingText-FrontEnd) | 2024.09 – 12 | SW Academy / 블로그형 코딩테스트 풀이 플랫폼 |
-| [**TikiTaka** — 티켓 관리 시스템](https://github.com/lamiiiii/TRILLION-TikiTaka-FE) | 2025.01 – 02 | 기업실무 프로젝트 / 협업 기반 티켓 관리 시스템 |
+| [**SkinBuddy** — AI 피부 관리 앱](https://github.com/Computer-skunks/Skin-Buddy-Frontend-Web) | 2024.04 – 05 | React · styled-components · Chart.js · axios |
+| [**CodingText** — 코딩 테스트 블로그](https://github.com/Xeat-KEA/CodingText-FrontEnd) | 2024.09 – 12 | Next.js · TypeScript · Zustand · TanStack Query · Framer Motion |
+| [**TikiTaka** — 티켓 관리 시스템](https://github.com/lamiiiii/TRILLION-TikiTaka-FE) | 2025.01 – 02 | React · TypeScript · Tailwind CSS · Zustand · TanStack Query |
 
 <!-- 하단 웨이브 푸터 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C9DBF&height=80&section=footer"/>

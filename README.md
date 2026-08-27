@@ -4,21 +4,11 @@
 <div align="center">
 
 <!-- 타이핑 애니메이션 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C9DBF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gyuri+%F0%9F%91%8B;Frontend+Developer;React+%7C+TypeScript+%7C+Next.js;Clean+Code+%26+Thoughtful+UX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C9DBF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Gyuri+%F0%9F%91%8B;)](https://git.io/typing-svg)
 
 <br/>
 
-**끊임없이 고민하며 사용자 경험을 개선하는 프론트엔드 개발자, 김규리입니다.**
-
-읽기 쉬운 코드와 직관적인 인터페이스를 중시하며,<br/>
-사용자가 불편함 없이 서비스를 경험할 수 있도록 꼼꼼하게 설계합니다.
-
-```yaml
-name     : 김규리 (Gyuri Kim)
-role     : Frontend Developer
-focus    : React · TypeScript · Next.js
-values   : Clean Code / Good UX / Continuous Growth
-```
+**김규리입니다.**
 
 </div>
 
